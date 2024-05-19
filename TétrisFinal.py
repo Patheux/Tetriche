@@ -2,7 +2,6 @@
 #                                           #
 # Jeu: Tetris                               #
 #                                           #
-# Auteurs: Pouliquen Plouzen Perrin Vidon   #
 #                                           #
 # Projet Informatique: Projet de I2         #
 
@@ -17,7 +16,7 @@ from os import chdir                    # pour pouvoir importer des images
 
 #TODO: modifier la direction des fichiers, en fonction de l'endoit sur votre ordinateur ;-)
 
-chdir("D:\ICAM\PT\INFO\Projet\Mise en forme")      # on pose ici la direction de nos fichiers
+chdir("D:\INFO\Projet\Mise en forme")      # on pose ici la direction de nos fichiers
 
 PIECE = 2       #vous découvrirez l'utilisation de ces variables assez vite ;-)
 BLOC = 1
